@@ -26,7 +26,9 @@ body{
     position : fixed;
      bottom: 0;
      width: 100%;
+     background: red;
      text-align: center;
+     color:white;
      line-height:2;
      text-shadow: 5px 2px 2px silver;
      letter-spacing: 5px;
